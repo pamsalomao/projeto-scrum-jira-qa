@@ -43,7 +43,7 @@ Funcionalidade está sendo desenvolvida pelo time.
 
 #  Em Teste
 Funcionalidade aguardando validação do QA.
-Erros foram identificado: enviado a Aguardando Correção.
+Erros foram identificados: enviado a Aguardando Correção.
 Erros corrigidos pelo desenvolvimento: Bugs foram corrigidos e validados por QA. (enviado a Concluído)
 
 #  Aguardando Correção
